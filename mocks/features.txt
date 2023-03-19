@@ -1,0 +1,3 @@
+O arquivo deve ter os campos id, nome, profissão e idade
+o arquivo não deve estar vazio
+o arquivo não deve ter mais de 4 linhas incluindo cabeçalhos
