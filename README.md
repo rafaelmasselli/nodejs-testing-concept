@@ -21,7 +21,7 @@ Leonardo Fibonacci, também conhecido como Leonardo de Pisa, Leonardo Pisano ou 
 
 ### [Coverage](./coverage/)
 
-O Coverage detecta as linhas de código que não são executadas no seu programa. Ao utilizá-lo na execução da suite de testes do seu projeto, ele informa a cobertura de testes do seu código. Se você está desenvolvendo um projeto Django, você vai querer usar o django-coverage.
+O Coverage detecta as linhas de código que não são executadas no seu programa. Ao utilizá-lo na execução da suite de testes do seu projeto, ele informa a cobertura de testes do seu código.
 
 <div align="center">
 
